@@ -13,23 +13,12 @@ Books > Travels > Machines
 °
 
 
-[Follow the ride of SpaceTime](https://sachinsshetty.github.io/gaganyatri.com) - [https://sachinsshetty.github.io/gaganyatri.com](https://sachinsshetty.github.io/gaganyatri.com) 
+[Portfolio Website](https://sachinsshetty.github.io/gaganyatri.com) - [https://sachinsshetty.github.io/gaganyatri.com](https://sachinsshetty.github.io/gaganyatri.com)
 
 
 * Projects
-  * Before the Terminator : [gameAI](https://github.com/sachinsshetty/gameAI)
-  * Flights of the Drone : [telloedu](https://github.com/sachinsshetty/telloedu)
-  * Your Stories on the Web : [Story Book Theme](https://github.com/slabstech/story-book-theme)
-
-
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sachinsshetty&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-  <div>
-    <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sachinsshetty&count_private=true&include_all_commits=true&theme=onedark" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsshetty&layout=compact&theme=onedark" />
-  </div>
-
-  <br>
-  <br><br>
+  * Current :
+    * [Revive](https://github.com/sachinsshetty/revive) - Backend for Autonomous Vehicle Tech Infrastructure (AVTI)
+  * Complete :
+    * [Portfolio](https://sachinsshetty.github.io/gaganyatri.com)
+    
