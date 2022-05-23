@@ -1,9 +1,9 @@
 ## Hi there 👋 🙋‍♀️ 🧙 👩‍💻 🌈
 
 
-I Software developer with 5+ years of professional experience in Full Stack development and Data Engineering.
+I am a Full Stack Software developer with 5+ years of professional experience in Web Development, Android Apps and Data Engineering. Actively looking for Full Stack Senior Developer Roles in Germany (Remote and On-Site)
 
-Currently I am building micro-service architecture for interactions in Autonomous Vehicle's complex interaction.
+Currently I am building micro-service architecture for interactions in Autonomous Vehicle's complex interaction.   [Revive](https://github.com/sachinsshetty/revive)
 
 ### Projects
 
