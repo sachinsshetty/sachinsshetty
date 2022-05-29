@@ -1,9 +1,9 @@
 ## Hi there 👋 🙋‍♀️ 🧙 👩‍💻 🌈
 
 
-I am a Full Stack Software Cloud developer with 5+ years of professional experience in Web Development, Android Apps and Data Engineering. Actively looking for Full Stack Senior Developer Roles in Germany (Remote and On-Site)
+I am a Full Stack Software Cloud developer with 5+ years of professional experience in Web Development, Android Apps and Data Engineering. Actively looking for Java Full Stack Senior Developer Roles with Docker and AWS in Germany (Remote and On-Site)
 
-Currently I am building a Micro-service architecture based on ReactJS + SpringBoot for interactions in Autonomous Vehicle's complex interaction.   [Revive](https://github.com/sachinsshetty/revive)
+Currently I am building a Micro-service architecture based on ReactJS + SpringBoot + Docker + AWS for interactions in Autonomous Vehicle's complex interaction.   [Revive](https://github.com/sachinsshetty/revive)
 
 ### Projects
 
