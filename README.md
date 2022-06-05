@@ -9,8 +9,8 @@ Currently I am building a Micro-service architecture based on ReactJS + SpringBo
 
   | Project | Type | Description | Status |
   |---|---|---| ---|
-  | [Chess](https://github.com/sachinsshetty/chess) | <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" /> | Chess API built with <a  href="https://github.com/sachinsshetty/revive/"> Revive </a>  | Current |
-  [Revive](https://github.com/sachinsshetty/revive) | <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" />  <img height="40" align="left" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="Spring Boot" /> <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" />   <img height="40" align="left" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker" />  <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" /> <img height="40" align="left" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" alt="Kubernetes" />  | Initializor libray for Web Application with Micro-Services  | Current |
+  | [Shop](https://github.com/slabstech/shop) | <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" /> <img height="40" align="left" src="https://www.dropwizard.io/en/latest/_static/dropwizard-logo.svg" alt="Dropwizard" />  <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" />   <img height="40" align="left" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker" />  <img height="40" align="left" src="https://reactjs.org/icons/icon-512x512.png" alt="ReactJS" />    | Online Shop using Micro-Services built with <a  href="https://github.com/sachinsshetty/revive/"> Revive </a>  | Current |
+  [Revive](https://github.com/sachinsshetty/revive) | <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" />  <img height="40" align="left" src="https://avatars.githubusercontent.com/u/317776?s=200&v=4" alt="Spring Boot" /> <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostgreSQL" />  <img height="40" align="left" src="https://reactjs.org/icons/icon-512x512.png" alt="ReactJS" />  <img height="40" align="left" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker" />  <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" /> <img height="40" align="left" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" alt="Kubernetes" />  | Initializor libray for Web Application with Micro-Services  | Current |
   | [gaganyatri.com](https://sachinsshetty.github.io/gaganyatri.com) | <img height="40" align="left" src="https://avatars.githubusercontent.com/u/3083652?s=200&v=4" alt="Jekyll" />       <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" />  <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" />     | Portfolio & Collection of notes  | Complete |
 | [eJournal](https://slabstech.github.io/ejournal/) | <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" alt="Java" />  <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" alt="Android" />| An app for students for maintaining online journal of lab experiments  | Complete |
 | [Connecting the Dots](https://github.com/slabstech/connectingthedots.com)| <img height="40" align="left" src="https://avatars.githubusercontent.com/u/3083652?s=200&v=4" alt="Jekyll" />       <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" />  <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" /> | Art Website containing Rangoli | Complete |
@@ -18,6 +18,7 @@ Currently I am building a Micro-service architecture based on ReactJS + SpringBo
 
 
 ### Skill Set
+
 
   | Skill | Type |
   |---|---|
@@ -29,12 +30,19 @@ Currently I am building a Micro-service architecture based on ReactJS + SpringBo
   | DevOps | <img height="40" align="left" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="GitHub" />     <img height="40" align="left" src="https://avatars.githubusercontent.com/u/7739233?s=200&v=4" alt="Docker" /> <img height="40" align="left" src="https://avatars.githubusercontent.com/u/107424?s=200&v=4" alt="Jenkins" />     <img height="40" align="left" src="https://avatars.githubusercontent.com/u/13629408?s=200&v=4" alt="Kubernetes" />  |
   | Version Control |  <img height="40" align="left" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="git" />  <img height="40" align="left" src="https://subversion.apache.org/icon.png" alt="subversion" /> <img height="40" align="left" src="https://wac-cdn.atlassian.com/assets/img/favicons/bitbucket/favicon-16x16.png" alt="bitbucket" />
   | IDE |  <img height="40" align="left" src="https://code.visualstudio.com/favicon.ico" alt="VSCode" />  <img height="40" align="left" src="https://avatars.githubusercontent.com/u/56974?s=200&v=4" alt="Eclipse JEE" /> <img height="40" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" /> <img height="40" align="left" src="https://avatars.githubusercontent.com/u/1089146?s=200&v=4" alt="Atom" /> <img height="40" align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="Android Studio" />  | |
+ 
+<br/><br/>
+<div align='center'>
 
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sachinsshetty&theme=gruvbox)](https://git.io/streak-stats)  
 
+</div>
 
 <br/><br/>
 
+<div align="center">
  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=sachinsshetty&count_private=true&include_all_commits=true&theme=onedark" />
 
 
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinsshetty&layout=compact&theme=onedark&count_private=false" >
+</div>
