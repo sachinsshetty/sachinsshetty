@@ -1,9 +1,9 @@
 ## Hi there 👋 🙋‍♀️ 🧙 👩‍💻 🌈
 
+I am a Polyglot developer with 5+ years of professional experience in Web Development, Android Apps and Data Engineering. 
 
-I am a Full Stack Software Cloud developer with 5+ years of professional experience in Web Development, Android Apps and Data Engineering. Actively looking for Java Full Stack Senior Developer Roles with Docker and AWS in Germany (Remote and On-Site)
 
-Currently I am building a Template Library for Micro-service architecture at [Revive](https://github.com/sachinsshetty/revive) and using the starter code to design a Online Shop at [Shop](https://github.com/slabstech/shop)
+Currently I am building a Template Library for Micro-service architecture called [Revive](https://github.com/sachinsshetty/revive) and using the starter code to design a Online Shop called [Shop](https://github.com/slabstech/shop)
 
 ### Projects
 
