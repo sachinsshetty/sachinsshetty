@@ -1,10 +1,10 @@
 ## Hi there 👋 🙋‍♀️ 🧙 👩‍💻 🌈
 
-I am a developer with 5+ years of professional experience in Web Development, Android Apps and Data Engineering. 
+Polyglot with professional experience in Web Development, Android Apps and Data Engineering. 
 
-Currently I am building a Template Library for Micro-service architecture called [Revive](https://github.com/sachinsshetty/revive) .
+Currently building a Template Library for Micro-service architecture called [Revive](https://github.com/slabstech/revive) .
 
-Download my [CV](https://github.com/sachinsshetty/gaganyatri.com/blob/master/_posts/docs/sachin_shetty_cv.pdf) for detailed information
+Download my [CV](https://github.com/slabstech/gaganyatri.com/blob/master/_posts/docs/sachin_shetty_cv.pdf) for detailed information
 
 
 | Project                                                                   | Type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Description                                                                                                  | Status   |
