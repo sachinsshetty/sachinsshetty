@@ -4,7 +4,7 @@ Polyglot developer with professional experience in Web Development, Android Apps
 
 Currently building [ಭೂಮಿ/ Bhoomi ](https://github.com/slabstech/bhoomi) -  NavIC enabled Agri-Drone Swarm
 
-Entry for GitHub Universe Session - [Build a Saas startup with only a Broweser](https://gaganyatri.com/opensource/building-hpc-saas-startup-from-browser/)
+Entry for GitHub Universe Session - [Build a Saas startup with only a Browser](https://gaganyatri.com/opensource/building-hpc-saas-startup-from-browser/)
 
 
 | Project                                                                   | Type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Description                                                                                                  | Status   |
