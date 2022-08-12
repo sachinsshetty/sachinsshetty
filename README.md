@@ -4,7 +4,7 @@ Polyglot developer with professional experience in Web Development, Android Apps
 
 Currently building [ಭೂಮಿ/ Bhoomi ](https://github.com/slabstech/bhoomi) -  NavIC enabled Agri-Drone Swarm
 
-Download my [CV](https://github.com/slabstech/gaganyatri.com/blob/master/_posts/docs/sachin_shetty_cv.pdf) for detailed information
+Entry for GitHub Universe Session - [Build a Saas startup with only a Broweser](https://gaganyatri.com/opensource/building-hpc-saas-startup-from-browser/)
 
 
 | Project                                                                   | Type                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Description                                                                                                  | Status   |
