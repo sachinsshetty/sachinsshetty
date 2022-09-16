@@ -8,6 +8,7 @@ Strategy [Build a Saas startup](https://gaganyatri.com/build/building-hpc-saas-s
 
 Building products using JetBrains OpenSource License and GitHub CodeSpaces
 
+[CV](https://github.com/slabstech/gaganyatri.com/blob/master/assets/pdf/cv/sachin_shetty_cv.pdf) 
 <br/><br/>
 <div align='center'>
 
