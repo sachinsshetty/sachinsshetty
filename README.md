@@ -1,14 +1,17 @@
 ## Hi there 👋 🙋‍♀️ 🧙 👩‍💻 🌈
 
-Open Source developer with professional experience in Web Frameworks, Android and Data Engineering. 
+Open Source developer with professional experience in Software Development, Android and Data Engineering. 
 
-Building [ಭೂಮಿ/ Bhoomi](https://github.com/slabstech/bhoomi) -  Online Navigation for Agri Drones using NavIC
+* Why - Martian Exploration and Habitat 
 
-Strategy [Build a Saas startup](https://gaganyatri.com/build/building-hpc-saas-startup-from-browser/)
+* What - Creating  <a href="https://mangala.earth">ಭೂಮಿ </a> for NASA <a href="https://2022.spaceappschallenge.org/challenges/2022-challenges/mars-habitat/teams/gaganyatri/project">Space Apps</a> Challenge 2022
 
-Building products using JetBrains OpenSource License and GitHub CodeSpaces
+* How - 
+  * Strategy to [Build a Saas startup](https://gaganyatri.com/build/building-hpc-saas-startup-from-browser/)
 
-[CV](https://github.com/slabstech/gaganyatri.com/blob/master/assets/pdf/cv/sachin_shetty_cv.pdf) 
+  * Building products using [JetBrains OpenSource License](https://www.jetbrains.com/community/opensource/#support) and [GitHub CodeSpaces](https://github.com/features/codespaces)
+
+* Reference [CV](https://github.com/slabstech/gaganyatri.com/blob/master/assets/pdf/cv/sachin_shetty_cv.pdf) 
 <br/><br/>
 <div align='center'>
 
