@@ -3,7 +3,7 @@
 
 
 
-* We are building <a href="https://mangala.earth">ಭೂಮಿ </a> for NASA <a href="https://2022.spaceappschallenge.org/challenges/2022-challenges/mars-habitat/teams/gaganyatri/project">Space Apps</a> Challenge 2022, <a href="https://2022.spaceappschallenge.org/locations/magdeburg/teams">  Global Nominee</a>
+* We are building <a href="https://mangala.earth">ಭೂಮಿ </a> to solve <a href="https://www.un.org/sustainabledevelopment/hunger/">UN SDG goal 2  </a>, with  food security in Space,  <a href="https://2022.spaceappschallenge.org/locations/magdeburg/teams"> NASA Space Apps 2022 Global Nominee</a>
 
  
 <br/>
