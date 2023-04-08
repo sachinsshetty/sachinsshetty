@@ -1,11 +1,18 @@
 ### Hi there 👋 🧙 👩‍💻 
 
 
-* We are building <a href="https://mangala.earth">ಭೂಮಿ </a> to solve <a href="https://www.un.org/sustainabledevelopment/hunger/">UN SDG </a> - Goal 2 - Eradicate Hunger ,
+* We are building <a href="https://mangala.earth">ಭೂಮಿ / Bhoomi </a> 
 
-* Objective with food security in Space,  <a href="https://2022.spaceappschallenge.org/locations/magdeburg/teams"> NASA Space Apps 2022</a> Global Nominee
- 
-### Project Bhoomi
+###  Bhoomi
+is an Autonomous Habitat designed for long term exploration on Mars.
+
+Bhoomi can be visualised as Internation Space Station on Mars, but designed with robots and human to complement 
+work and exploration
+
+Robots would set up the entire system, growing food and maintaining the habitat
+before the first astronauts arrive at Mars.
+
+Robots will be sent earlier than Humans due to low-cost Rockets compared to human-rated systems.
 
 <br/>
 <div align='center'>
@@ -14,5 +21,3 @@
 
 </div>
 
-* [Garuda Swarm UAV](https://mangala.earth/garuda/swarm)
-* [Kalpavruksha Greenhouse](https://mangala.earth/habitat/build) 
