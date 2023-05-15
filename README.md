@@ -14,6 +14,7 @@ before the first astronauts arrive at Mars.
 
 Robots will be sent earlier than Humans due to low-cost Rockets compared to human-rated systems.
 
+Poster presented at [SSEO-14](www.dlr.de/sseo14) - Berlin - 10 May 2022
 <br/>
 <div align='center'>
 
