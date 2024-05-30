@@ -1,17 +1,11 @@
 ### Hi there 👋 🧙 👩‍💻 
 
 
-* We are building <a href="https://mangala.earth">ಭೂಮಿ / Bhoomi </a> 
+* We are building <a href="https://mangala.earth">ಭೂಮಿ / Bhoomi </a> for Mars Habitat.
+* Currently cooking tools required for Robots at <a href="https://slabstech.com/llm-recipes/"> LLM Recipes </a>
 
 ###  Bhoomi 
-#####  Navigation Guide to Mars
+#####   Guide to Mars
 * Satellite Tracker
-  * Predict orbits
-  * Track with Radio Telescopes
-  * Simulate Collision Avoidance
-* Rocket Launch Locations
-  * Functioning Launch Pads
-  * New Locations Discovery
-* Future Launches
-  * Launch Windows
-  * Satellite placement
+* Humanoid Robots
+  
