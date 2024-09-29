@@ -1,7 +1,7 @@
 ### Hi there 👋 🧙 👩‍💻 
 
 
-* We are building <a href="https://mangala.earth">ಭೂಮಿ / Bhoomi </a> for Mars Habitat.
+* We are building <a href="https://gaganyatri.in">ಗಗನ್ ಯಾತ್ರಿ / Gaganyatri </a> for Mars Habitat.
 * Currently cooking tools required for Robots at <a href="https://slabstech.com/llm-recipes/"> LLM Recipes </a>
 
 ###  Bhoomi 
@@ -9,7 +9,7 @@
 * Satellite Tracker
 * Humanoid Robots at Warehouse 
   
-##### Ambition  - Self Critiuqe 
+##### Ambition  - Self Critique 
 
 
 What is the important work that you completed ?
