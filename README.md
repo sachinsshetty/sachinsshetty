@@ -1,13 +1,14 @@
 ### Hi there 👋 🧙 👩‍💻 
 
-
-* We are building <a href="https://gaganyatri.in">ಗಗನ್ ಯಾತ್ರಿ / Gaganyatri </a> for Mars Habitat.
+* Building Healthcare App with LLM tech at at <a href="https://sanjeevni.me/"> sanjeevini.me </a>
+* We are prototyping with multimodal LLMs <a href="https://gaganyatri.in">ಗಗನ್ ಯಾತ್ರಿ / Gaganyatri </a> for Mars Habitat.
 * Currently cooking tools required for Robots at <a href="https://slabstech.com/llm-recipes/"> LLM Recipes </a>
 
 ###  Bhoomi 
 #####   Guide to Mars
 * Satellite Tracker
-* Humanoid Robots at Warehouse 
+* Humanoid Robots at Warehouse
+* Healthcare for ALL
   
 ##### Ambition  - Self Critique 
 
