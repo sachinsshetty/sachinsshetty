@@ -1,17 +1,22 @@
 ### Hi there 👋 🧙 👩‍💻 
 
-* Building Healthcare App with LLM tech at at <a href="https://sanjeevini.me/"> sanjeevini.me </a>
-* We are prototyping with multimodal LLMs <a href="https://gaganyatri.in">ಗಗನ್ ಯಾತ್ರಿ / Gaganyatri </a> for Mars Habitat.
-* Currently cooking tools required for Robots at <a href="https://slabstech.com/llm-recipes/"> LLM Recipes </a>
+* Vision
+  * Day 2 on Mars
+* Strategy
+  * Open source Community collaboration with Cutting-edge methods
+* Priorities
+  * Project [Sanjeevini](https://sanjeevini.me)  - AI Healthcare App
+  * Project [Dhwani](https://slabstech.com/dhwani/) - Voice AI for Kannada Indian/ Languages 
+  * Currently cooking tools required for Robots at <a href="https://slabstech.com/llm-recipes/"> LLM Recipes </a>
 
-###  Bhoomi 
 #####   Guide to Mars
-* Satellite Tracker
 * Humanoid Robots at Warehouse
 * Healthcare for ALL
+* Accessible, Private and Open Source AI for ALL
+
+
   
 ##### Ambition  - Self Critique 
-
 
 What is the important work that you completed ?
 
