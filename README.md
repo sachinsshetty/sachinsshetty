@@ -5,17 +5,15 @@
 * Strategy
   * Open source Community collaboration with Cutting-edge methods
 * Priorities
-  * Project [Sanjeevini](https://sanjeevini.me)  - AI Healthcare App
-  * Project [Dhwani](https://slabstech.com/dhwani/) - Voice AI for Kannada Indian/ Languages 
+  * Project [dwani.ai](https://dwani.ai/) - Knowledge through Voice 
   * Currently cooking tools required for Robots at <a href="https://slabstech.com/llm-recipes/"> LLM Recipes </a>
+  * Project [Sanjeevini](https://sanjeevini.me)  - AI Healthcare App
 
 #####   Guide to Mars
+* Accessible, Private and Open Source AI for ALL
 * Humanoid Robots at Warehouse
 * Healthcare for ALL
-* Accessible, Private and Open Source AI for ALL
 
-
-  
 ##### Ambition  - Self Critique 
 
 What is the important work that you completed ?
