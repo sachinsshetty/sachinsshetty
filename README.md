@@ -1,3 +1,6 @@
+building dwani.ai
+
+<!-- 
 ### Hi there 👋 🧙 👩‍💻 
 
 * Vision
@@ -38,3 +41,4 @@
 - Given infinite resources, what project will you dedicate your life's work to ?
 
 - What do you want to accomplish in life ? 
+-->
