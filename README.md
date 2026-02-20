@@ -88,6 +88,65 @@ Open source community collaboration with cutting-edge methods, focusing on:
 - **X/Twitter**: [@gaganyatri](https://x.com/gaganyatri)
 - **LinkedIn**: [in/sachinlabs](https://linkedin.com/in/sachinlabs)
 
+## Project Map
+
+```mermaid
+flowchart TB
+    subgraph Vision["🎯 Vision: Guide to Mars"]
+        V1[Accessible Open Source AI]
+        V2[Humanoid Robots]
+        V3[Healthcare for ALL]
+    end
+
+    subgraph Orgs["Organizations"]
+        subgraph dwani["dwani-ai · Knowledge from Curiosity"]
+            subgraph platform["🌟 Platform"]
+                P1[dwani.ai]
+                P2[dwani-ai.github.io]
+            end
+            subgraph llm["🔬 LLM & Experiments"]
+                L1[llm-recipes]
+            end
+            subgraph indic["🗣️ Indic Language Services"]
+                I1[asr-indic-server]
+                I2[tts-indic-server]
+                I3[indic-translate-server]
+                I4[docs-indic-server]
+            end
+            subgraph mobile["📱 Mobile & Discovery"]
+                M1[dwani-android]
+                M2[discovery]
+                M3[workshop]
+            end
+        end
+        subgraph slab["slabstech · Building Sustainable Robots"]
+            subgraph infra["🛠️ Infrastructure"]
+                S1[action-deploy-container]
+                S2[action-cuda-compiler]
+                S3[docker]
+            end
+        end
+    end
+
+    subgraph personal["sachinsshetty · Personal"]
+        subgraph robotics["🤖 Robotics & Agents"]
+            R1[biryani_bot]
+            R2[agent-olympics-school]
+            R3[agent-beats-dwani-discovery]
+        end
+        subgraph health["🏥 Healthcare"]
+            H1[Sanjeevini]
+            H2[care_scribe]
+        end
+    end
+
+    Vision --> Orgs
+    Vision --> personal
+    P1 --> I1 & I2 & I3
+    L1 --> R1
+    S1 & S2 & S3 --> dwani
+```
+
 ## Stats
 
 - **Repositories**: 28+
