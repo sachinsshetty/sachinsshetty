@@ -6,14 +6,6 @@
 
 Building accessible, private, and open-source AI solutions for Indian languages and robotics applications. Focused on multimodal inference, voice-based coding, and sustainable robotics.
 
-## Organizations
-
-### [dwani-ai](https://github.com/dwani-ai) - Knowledge from Curiosity
-Multimodal inference platform for Indian languages, providing accessible AI tools and APIs.
-
-### [slabstech](https://github.com/slabstech) - Building Sustainable Robots
-Robotics and AI infrastructure tools for warehouse automation and humanoid robots.
-
 ## Core Projects
 
 ### 🌟 dwani.ai Platform
@@ -45,19 +37,7 @@ Robotics and AI infrastructure tools for warehouse automation and humanoid robot
 
 ### 🏥 Healthcare
 - **[Sanjeevini](https://sanjeevini.me)** - AI Healthcare App
-- **[care_scribe](https://github.com/sachinsshetty/care_scribe)** - AI autofill plug for care
 
-### 🛠️ Infrastructure & Tools
-- **[action-deploy-container-to-registry](https://github.com/slabstech/action-deploy-container-to-registry)** - GitHub Action for Docker deployments
-- **[action-cuda-compiler](https://github.com/slabstech/action-cuda-compiler)** - CUDA C++ compiler action
-- **[docker](https://github.com/slabstech/docker)** - Docker configurations and compose files
-
-## Core Features
-
-- **Inference API**: Real-time data processing and model inference capabilities
-- **Code with Voice**: Voice-based coding functionalities for seamless development
-- **Robotics**: AI-driven solutions for robotics applications and warehouse automation
-- **Multimodal AI**: Text, speech, and vision processing for Indian languages
 
 ## Strategy
 
@@ -65,28 +45,6 @@ Open source community collaboration with cutting-edge methods, focusing on:
 - Accessible, Private and Open Source AI for ALL
 - Humanoid Robots at Warehouse
 - Healthcare for ALL
-
-## Priorities
-
-1. **[dwani.ai](https://dwani.ai/)** - Knowledge from Curiosity - Main platform development
-2. **[LLM Recipes](https://slabstech.com/llm-recipes/)** - Tools required for Robots
-3. **[Sanjeevini](https://sanjeevini.me)** - AI Healthcare App
-4. **[Biryani bot](https://github.com/sachinsshetty/biryani_bot)** - Robotics cooking project
-
-## Vision: Guide to Mars
-
-- 🌍 Accessible, Private and Open Source AI for ALL
-- 🤖 Humanoid Robots at Warehouse
-- 🏥 Healthcare for ALL
-
-## Links
-
-- **Website**: [dwani.ai](https://dwani.ai/)
-- **LLM Recipes**: [slabstech.com/llm-recipes](https://slabstech.com/llm-recipes/)
-- **Sanjeevini**: [sanjeevini.me](https://sanjeevini.me)
-- **GitHub**: [@sachinsshetty](https://github.com/sachinsshetty)
-- **X/Twitter**: [@gaganyatri](https://x.com/gaganyatri)
-- **LinkedIn**: [in/sachinlabs](https://linkedin.com/in/sachinlabs)
 
 ## Project Map
 
@@ -119,13 +77,6 @@ flowchart TB
                 M3[workshop]
             end
         end
-        subgraph slab["slabstech · Building Sustainable Robots"]
-            subgraph infra["🛠️ Infrastructure"]
-                S1[action-deploy-container]
-                S2[action-cuda-compiler]
-                S3[docker]
-            end
-        end
     end
 
     subgraph personal["sachinsshetty · Personal"]
@@ -136,7 +87,6 @@ flowchart TB
         end
         subgraph health["🏥 Healthcare"]
             H1[Sanjeevini]
-            H2[care_scribe]
         end
     end
 
@@ -146,13 +96,6 @@ flowchart TB
     L1 --> R1
     S1 & S2 & S3 --> dwani
 ```
-
-## Stats
-
-- **Repositories**: 28+
-- **Organizations**: 2 (dwani-ai, slabstech)
-- **Packages**: 4
-- **Followers**: 21
 
 ---
 
