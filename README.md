@@ -6,18 +6,14 @@
 
 ### 🌟 dwani.ai Platform
 - **[dwani.ai](https://dwani.ai/)** - Voice Agents for Indian Languages
-  - Main platform providing AI inference capabilities
-  - Website: [dwani.ai](https://github.com/dwani-ai/dwani-ai.github.io)
 
 ### 🔬 LLM Recipes & Experiments
-- **[llm-recipes](https://github.com/dwani-ai/llm-recipes)** ⭐ 42 stars
+- **[llm-recipes](https://github.com/dwani-ai/llm-recipes)** 
   - Experiments with GenAI - Multimodal
 
-## Vision: Guide to Mars
-
-- 🌍 Accessible, Private and Open Source AI for ALL
-- 🤖 Humanoid Robots at Warehouse
-- 🏥 Healthcare for ALL
+### 🔬 Agent Recipes & Experiments
+- **[agent-recipes](https://github.com/dwani-ai/agent-recipes)** 
+  - Experiments with Agents
 
 ## Links
 
@@ -25,7 +21,6 @@
 - **GitHub**: [@sachinsshetty](https://github.com/sachinsshetty)
 - **X/Twitter**: [@gaganyatri](https://x.com/gaganyatri)
 - **LinkedIn**: [in/sachinlabs](https://linkedin.com/in/sachinlabs)
-
 
 ---
 
